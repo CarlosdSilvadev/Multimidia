@@ -18,20 +18,22 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 - **yt-dlp**: Biblioteca Python que permite fazer o download de vídeos de várias plataformas, incluindo YouTube.
 - **Flask**: Framework Python para desenvolvimento de aplicações web.
 
-## 🚀 Instalando <nome_do_projeto>
+## 🚀 Instalando <Dowloader de Videos>
 
-Para instalar o <nome_do_projeto>, siga estas etapas:
+Para instalar , siga estas etapas:
 
-Linux e macOS:
 
-```
-<comando_de_instalação>
-```
 
 Windows:
 
 ```
-<comando_de_instalação>
+1. Clonar o Repositório
+
+Clone este repositório para o seu computador:
+
+```bash
+git clone https://github.com/SEU_USUARIO/seu-repositorio.git
+cd seu-repositorio
 ```
 
 ## ☕ Usando <nome_do_projeto>
