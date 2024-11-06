@@ -25,13 +25,13 @@ Para instalar , siga estas etapas:
 
 
 Windows:
-
-```
 1. Clonar o Repositório
 
 Clone este repositório para o seu computador:
 
-```bash
+bash
+```
+
 git clone https://github.com/SEU_USUARIO/seu-repositorio.git
 cd seu-repositorio
 ```
