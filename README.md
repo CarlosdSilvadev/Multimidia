@@ -8,25 +8,19 @@
 
 <img src="imagem.png" alt="Exemplo imagem">
 
-> Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
+> Este projeto permite baixar vídeos do YouTube (ou outros sites compatíveis) e convertê-los para o formato MP3 utilizando o `yt-dlp` e `ffmpeg`. A aplicação é baseada em Flask e oferece uma interface web simples para realizar o download.
 
-### Ajustes e melhorias
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
-- [x] Tarefa 1
-- [x] Tarefa 2
-- [x] Tarefa 3
-- [ ] Tarefa 4
-- [ ] Tarefa 5
 
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-- Você instalou a versão mais recente de `<linguagem / dependência / requeridos>`
-- Você tem uma máquina `<Windows / Linux / Mac>`. Indique qual sistema operacional é compatível / não compatível.
-- Você leu `<guia / link / documentação_relacionada_ao_projeto>`.
+- **Python 3.x**: Certifique-se de ter o Python 3.6 ou superior instalado em sua máquina.
+- **ffmpeg**: Ferramenta necessária para manipulação de vídeos (conversão de áudio, extração de áudio, etc.).
+- **yt-dlp**: Biblioteca Python que permite fazer o download de vídeos de várias plataformas, incluindo YouTube.
+- **Flask**: Framework Python para desenvolvimento de aplicações web.
 
 ## 🚀 Instalando <nome_do_projeto>
 
