@@ -6,7 +6,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="imagem.png" alt="Exemplo imagem">
+<img src="img/Captura de tela 2024-11-06 112423.png" alt="Exemplo imagem">
 
 > Este projeto permite baixar vídeos do YouTube (ou outros sites compatíveis) e convertê-los para o formato MP3 utilizando o `yt-dlp` e `ffmpeg`. A aplicação é baseada em Flask e oferece uma interface web simples para realizar o download.
 
