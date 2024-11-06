@@ -36,12 +36,15 @@ git clone https://github.com/SEU_USUARIO/seu-repositorio.git
 cd seu-repositorio
 ```
 
-## ☕ Usando <nome_do_projeto>
+## ☕ Usando <Dowloader de Videos>
 
-Para usar <nome_do_projeto>, siga estas etapas:
+Para usar , siga estas etapas:
+
+execute para iniciar o flask:
 
 ```
-<exemplo_de_uso>
+python app.py
+
 ```
 
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Forneça uma referência de opções para pontos de bônus!
