@@ -4,7 +4,7 @@
 
 <img src="img/Captura de tela 2024-11-06 112423.png" alt="Exemplo imagem">
 
-> Este projeto permite baixar vídeos do YouTube (ou outros sites compatíveis) e convertê-los para o formato MP3 utilizando o `yt-dlp` e `ffmpeg`. A aplicação é baseada em Flask e oferece uma interface web simples para realizar o download.
+> Este projeto permite baixar vídeos do YouTube (ou outros sites compatíveis) e convertê-los para o formato MP3 e MP4 utilizando o `yt-dlp` e `ffmpeg`. A aplicação é baseada em Flask e oferece uma interface web simples para realizar o download.
 
 
 
